@@ -1,16 +1,13 @@
-### Hi there 👋
+# Luiz Moura
 
-<!--
-**luiz-moura/luiz-moura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de curso sistemas de informação e entusiasta em desenvolvimento web.
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Moura-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizhenmoura/)](https://www.linkedin.com/in/luizhenmoura/) 
+[![Gmail Badge](https://img.shields.io/badge/-moura.oliveira.luiz@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moura.oliveira.luiz@gmail.com)](mailto:moura.oliveira.luiz@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-moura&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-moura&layout=compact&langs_count=7&theme=dark&hide=html&hide_border=true"/>
+</div>
+
+![Snake animation](https://github.com/luiz-moura/luiz-moura/blob/output/github-contribution-grid-snake.svg)
