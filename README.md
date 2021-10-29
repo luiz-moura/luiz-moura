@@ -6,8 +6,8 @@ Estudante de curso sistemas de informação e entusiasta em desenvolvimento web.
 [![Gmail Badge](https://img.shields.io/badge/-moura.oliveira.luiz@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moura.oliveira.luiz@gmail.com)](mailto:moura.oliveira.luiz@gmail.com)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-moura&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-moura&layout=compact&langs_count=7&theme=dark&hide=html&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luiz-moura&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-moura&layout=compact&langs_count=7&theme=dark&hide=html&hide_border=true"/>
 </div>
 
 ![Snake animation](https://github.com/luiz-moura/luiz-moura/blob/output/github-contribution-grid-snake.svg)
