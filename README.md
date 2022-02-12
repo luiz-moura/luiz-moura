@@ -9,5 +9,3 @@ Estudante de curso sistemas de informação e entusiasta em desenvolvimento web.
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luiz-moura&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-moura&layout=compact&langs_count=7&theme=dark&hide=html&hide_border=true"/>
 </div>
-
-![Snake animation](https://github.com/luiz-moura/luiz-moura/blob/output/github-contribution-grid-snake.svg)
